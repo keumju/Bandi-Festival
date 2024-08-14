@@ -10,6 +10,7 @@
 - 배포 URL : https://thesandfox.github.io/bandifesta
 - 프로젝트 기획서 : [반디페스타.pdf](https://github.com/user-attachments/files/16612303/default.pdf)
 - 피그마 디자인 : https://ko.fm/4Pu
+- 백엔드 프로그램(깃허브) : https://github.com/keumju/bandifesta-api.git
 
 <br>
  
