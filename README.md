@@ -1,6 +1,6 @@
 # 대한민국 밤 산책<img src="https://github.com/user-attachments/assets/cee0d27a-44e8-4d1e-80c3-f35f8d3d18a7" align=left width=100>
 
-> 경복궁 별빛야행 축제를 소개하는 사이트 💫
+> 경복궁 별빛야행 축제를 소개하는 사이트 💫 
 
 <br />
 
