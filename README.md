@@ -63,7 +63,7 @@
 - 개발 도구 : Vite, HTML, CSS, React, JavaScript, Node.js, Three.js
 - 협업 툴 : GitHub, Discord, Notion
 - 디자인 툴 : Figma, Adobe Photoshop, Adobe Illustrator
-
+- 기타 : react-paginate 라이브러리
 
 <br>
 
